@@ -3,7 +3,7 @@
 .cpcache/
 **/.cache/
 **/cache/
-
+.clj-kondo/
 
 #*#
 .idea/
